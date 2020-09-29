@@ -1,4 +1,4 @@
-package p1
+package leetcode_go
 
 func twoSum(nums []int, target int) []int {
 	for i := 0; i < len(nums); i++ {
